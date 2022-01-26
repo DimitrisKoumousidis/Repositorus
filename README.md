@@ -11,3 +11,4 @@ An Icebreaker task that introduces Git and provides the material to attempt the 
 
 # The members of the module are:
  - Saemundur Oskar Haraldsson (Lecturer)
+ - Change test
